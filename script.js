@@ -1,1 +1,1 @@
-alert("Salam MONIS MAMA!");
+alert("Salam Everyone!");
