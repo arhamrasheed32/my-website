@@ -1,1 +1,1 @@
-alert("Welcome to my webpage!");
+alert("Salam MONIS MAMA!");
