@@ -1,1 +1,4 @@
-alert("Salam Everyone!");
+function toggleDarkMode() {
+    document.body.classList.toggle("dark-mode");
+}
+
